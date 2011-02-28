@@ -1,1 +1,1 @@
-GREP_OPTIONS="--exclude-dir=\\.svn"
+export GREP_OPTIONS="--exclude-dir=\\.svn"
